@@ -1,2 +1,0 @@
-# furkan
-ürün satıs programı
